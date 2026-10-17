@@ -1,8 +1,11 @@
 
 Please find my master's thesis defense PPT on this page. View the PPT in presentation mode for better understanding. The summary of the thesis is provided below.
+
 Official thesis link: https://resolver.tudelft.nl/uuid:53f4ee70-bb6c-4d25-8c2b-25a17e056de8
+
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------
 **Summary:**
+
 Delaying the laminar-to-turbulent transition of flow over an aircraft has significant potential for reducing its climate impact. A robust passive flow control method is an attractive way to achieve this transition delay. The current work is focused on designing such a passive flow control mechanism that is based on Local Resonance Units (LRUs). In particular, this mechanism is explored to attenuate the Tollmien–Schlichting (TS) waves in a flat-plate boundary layer that drive its transition to turbulence. A foundational principle underlying the design of LRUs is a previously identified mechanism whereby modifying the local surface admittance was shown to influence the amplitude of a TS wave through wave interference.
 
  Design criteria for the surface admittance required to achieve TS wave attenuation were obtained from the literature. This thesis is set to design an LRU that can meet these design criteria. Particularly, these criteria included the favourable limits of the admittance phase through which a TS wave can be attenuated and a subwavelength resonance requirement, together with an operational frequency requirement. Drawing inspiration from research on acoustic wave control using metamaterials, composite resonators are chosen as an LRU concept that could meet the above criteria for TS wave attenuation. Two different types of composite resonators: one incorporating a single rigid insert and the other incorporating dual rigid inserts were investigated. The dual-insert composite resonator allowed us to explore the admittance phase behaviour across the coupled resonance phenomena observed in systems with multiple degrees of freedom.
